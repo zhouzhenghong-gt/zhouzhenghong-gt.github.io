@@ -12,7 +12,7 @@ redirect_from:
 
 I am interested in multi-modal models, 3D vision and specific applications such as medicine.
 
-Email: [zhouzhenghong1999@gmail.com](mailto:zhouzhenghong1999@gmail.com),  [github](https://github.com/zhouzhenghong-gt), [google scholar](https://scholar.google.com/citations?user=b7owCGgAAAAJ&hl=zh-CN), [resume](../assets/resume.pdf)  
+Email: [zhouzhenghong1999@gmail.com](mailto:zhouzhenghong1999@gmail.com),  [github](https://github.com/zhouzhenghong-gt), [google scholar](https://scholar.google.com/citations?user=b7owCGgAAAAJ&hl=zh-CN), [resume](../assets/zhenghongzhou_resume.pdf)  
 
 Publications and Preprints
 ======
