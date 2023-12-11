@@ -20,72 +20,36 @@ Publications and Preprints
 \* indicates equal contribution.
 
 * TinyCLIP: CLIP Distillation via Affinity Mimicking and Weight Inheritance
-  
   Kan Wu\*, Houwen Peng\*, **Zhenghong Zhou**\*, Bin Xiao, Mengchen Liu, Lu Yuan, Hong Xuan, Michael Valenzuela, Xi (Stephen) Chen, Xinggang Wang, Hongyang Chao, Han Hu
-
   ICCV, 2023
-
   [paper](https://openaccess.thecvf.com/content/ICCV2023/html/Wu_TinyCLIP_CLIP_Distillation_via_Affinity_Mimicking_and_Weight_Inheritance_ICCV_2023_paper.html), [code](https://github.com/microsoft/Cream/tree/main/TinyCLIP)
-
   <p align="center">
     <img src="../images/TinyCLIP.png" width="600">
   </p>
-  
 * TiAVox: Time-aware Attenuation Voxels for Sparse-view 4D DSA Reconstruction
-  
   **Zhenghong Zhou**\*, Huangxuan Zhao\*, Jiemin Fang, Dongqiao Xiang, Lei Chen, Lingxia Wu, Feihong Wu, Wenyu Liu, Chuansheng Zheng, Xinggang Wang
-
   Arxiv, 2023
-
   <p align="center">
-    <img src="../images/Tiavox.png" width="600">
+    <img src="../images/Tiavox.png" width="500">
   </p>
-
   [paper]([https://openaccess.thecvf.com/content/ICCV2023/html/Wu_TinyCLIP_CLIP_Distillation_via_Affinity_Mimicking_and_Weight_Inheritance_ICCV_2023_paper.html](https://arxiv.org/abs/2309.02318))
 * Self-supervised Learning Enables Excellent 3d Digital Subtraction Angiography Reconstruction from Ultra-sparse 2d Projection
-  
   Huangxuan Zhao\*, **Zhenghong Zhou**\*, Feihong Wu\*, Dongqiao Xiang\*, Hui Zhao, Wei Zhang, Lin Li, Zhong Li, Jia Huang, Hongyao Hu, Chengbo Liu, Tao Wang, Wenyu Liu, Jinqiang Ma, Fan Yang, Xinggang Wang, Chuansheng Zheng
-
   Cell Reports Medicine, 2022
-
   [paper](https://www.sciencedirect.com/science/article/pii/S2666379122003305), [code](https://github.com/zhouzhenghong-gt/self-supervised-3D-DSA-reconstructio-network)
-
   <p align="center">
-    <img src="../images/ssdr.png" width="600">
+    <img src="../images/ssdr.png" width="450">
   </p>
 
 
 
 
-Getting started
+Internship
 ======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+* [Microsoft Research Asia](https://www.msra.cn/), Beijing, China. Sep,2022-Jun,2023
+  Research intern, mentored by Dr. [Houwen Peng](https://houwenpeng.com/), working on visual-language models
 
-Site-wide configuration
-------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
-
-Create content & metadata
-------
-For site content, there is one markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
-
-**Markdown generator**
-
-I have also created [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the academicpages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the markdown files, then commit and push them to the GitHub repository.
-
-How to edit your site's GitHub repository
-------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
-
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
-
-For more info
-------
-More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+Misc
+======
+English: TOEFL 101 (R:27, L:27, S:23, W:24)
+Love badmintion, swim, reading, anime
