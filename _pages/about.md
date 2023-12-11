@@ -15,25 +15,31 @@ I am interested in multi-modal models, 3D vision and specific applications such 
 
 Feel free to contact me (zhouzhenghong1999@gmail.com) for any questions or discussions.
 
+<br>
+
+> _Art is an explosion!_
+> 
+> --- _Deidara_
+
 Publications and Preprints
 ======
 \* indicates equal contribution.
 
-* TinyCLIP: CLIP Distillation via Affinity Mimicking and Weight Inheritance  
+* **TinyCLIP: CLIP Distillation via Affinity Mimicking and Weight Inheritance**  
   Kan Wu\*, Houwen Peng\*, **Zhenghong Zhou**\*, Bin Xiao, Mengchen Liu, Lu Yuan, Hong Xuan, Michael Valenzuela, Xi (Stephen) Chen, Xinggang Wang, Hongyang Chao, Han Hu  
   ICCV, 2023  
   [paper](https://openaccess.thecvf.com/content/ICCV2023/html/Wu_TinyCLIP_CLIP_Distillation_via_Affinity_Mimicking_and_Weight_Inheritance_ICCV_2023_paper.html), [code](https://github.com/microsoft/Cream/tree/main/TinyCLIP)  
   <p align="center">
     <img src="../images/TinyCLIP.png" width="600">
   </p>  
-* TiAVox: Time-aware Attenuation Voxels for Sparse-view 4D DSA Reconstruction  
+* **TiAVox: Time-aware Attenuation Voxels for Sparse-view 4D DSA Reconstruction**  
   **Zhenghong Zhou**\*, Huangxuan Zhao\*, Jiemin Fang, Dongqiao Xiang, Lei Chen, Lingxia Wu, Feihong Wu, Wenyu Liu, Chuansheng Zheng, Xinggang Wang  
   Arxiv, 2023  
   <p align="center">
     <img src="../images/Tiavox.png" width="530">
   </p>  
   [paper]([https://openaccess.thecvf.com/content/ICCV2023/html/Wu_TinyCLIP_CLIP_Distillation_via_Affinity_Mimicking_and_Weight_Inheritance_ICCV_2023_paper.html](https://arxiv.org/abs/2309.02318))  
-* Self-supervised Learning Enables Excellent 3d Digital Subtraction Angiography Reconstruction from Ultra-sparse 2d Projection  
+* **Self-supervised Learning Enables Excellent 3d Digital Subtraction Angiography Reconstruction from Ultra-sparse 2d Projection**  
   Huangxuan Zhao\*, **Zhenghong Zhou**\*, Feihong Wu\*, Dongqiao Xiang\*, Hui Zhao, Wei Zhang, Lin Li, Zhong Li, Jia Huang, Hongyao Hu, Chengbo Liu, Tao Wang, Wenyu Liu, Jinqiang Ma, Fan Yang, Xinggang Wang, Chuansheng Zheng  
   Cell Reports Medicine, 2022  
   [paper](https://www.sciencedirect.com/science/article/pii/S2666379122003305), [code](https://github.com/zhouzhenghong-gt/self-supervised-3D-DSA-reconstructio-network)
@@ -49,7 +55,7 @@ Internship
 * [Microsoft Research Asia](https://www.msra.cn/), Beijing, China. Sep,2022-Jun,2023  
   Research intern, mentored by Dr. [Houwen Peng](https://houwenpeng.com/), working on visual-language models  
 
-Misc
+Miscellaneous
 ======
-English: TOEFL 101 (R:27, L:27, S:23, W:24)
-Love badmintion, swim, reading, anime
+English: TOEFL 101 (R:27, L:27, S:23, W:24)  
+Love badmintion(7 years), swim, reading, anime
