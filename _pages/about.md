@@ -46,7 +46,7 @@ Publications and Preprints
 
 Internship
 ======
-* [Microsoft Research Asia](https://www.msra.cn/), Beijing, China. Sep,2022-Jun,2023  
+* [Microsoft Research Asia](https://www.msra.cn/), Beijing, China. Dec,2022-Jun,2023  
   Research intern, mentored by Dr. [Houwen Peng](https://houwenpeng.com/), working on visual-language models  
 
 Miscellaneous
