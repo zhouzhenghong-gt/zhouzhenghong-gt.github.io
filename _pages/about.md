@@ -14,6 +14,8 @@ I am interested in multi-modal models, 3D vision and specific applications such 
 
 Email: [zhouzhenghong1999@gmail.com](mailto:zhouzhenghong1999@gmail.com),  [github](https://github.com/zhouzhenghong-gt), [google scholar](https://scholar.google.com/citations?user=b7owCGgAAAAJ&hl=zh-CN), [resume](../assets/zhenghongzhou_resume.pdf)  
 
+I am looking for PhD to start in 2024 Fall. Please contact me if you have any leads!
+
 Publications and Preprints
 ======
 \* indicates equal contribution.
@@ -46,7 +48,13 @@ Publications and Preprints
 Internship
 ======
 * [Microsoft Research Asia](https://www.msra.cn/), Beijing, China. Dec,2022-Jun,2023  
-  Research intern, mentored by Dr. [Houwen Peng](https://houwenpeng.com/), working on visual-language models  
+  Research intern, mentored by Dr. [Houwen Peng](https://houwenpeng.com/), working on visual-language models
+
+#Award
+#======
+#* Merit Graduate Student award (top 15% in class), 2022, 2023
+#* National Encouragement Scholarship, 2019, 2020
+#* Outstanding Undergraduates in Term of Academic Performance (top 1% in HUST), 2018
 
 Miscellaneous
 ======
