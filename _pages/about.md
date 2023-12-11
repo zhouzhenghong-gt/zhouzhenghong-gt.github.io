@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Zhenghong Zhou(周政宏)"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -13,7 +13,7 @@ I am Zhenghong Zhou, a final-year M.S. student in @[hustvl](https://github.com/h
 
 I am interested in multi-modal models, 3D vision and specific applications such as medicine.
 
-Feel free to contact me (zhouzhenghong1999@gmail.com) for any questions or discussions.
+Email: zhouzhenghong1999@gmail.com
 
 <br>
 
