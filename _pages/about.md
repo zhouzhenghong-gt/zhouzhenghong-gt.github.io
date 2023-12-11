@@ -50,12 +50,6 @@ Internship
 * [Microsoft Research Asia](https://www.msra.cn/), Beijing, China. Dec,2022-Jun,2023  
   Research intern, mentored by Dr. [Houwen Peng](https://houwenpeng.com/), working on visual-language models
 
-#Award
-#======
-#* Merit Graduate Student award (top 15% in class), 2022, 2023
-#* National Encouragement Scholarship, 2019, 2020
-#* Outstanding Undergraduates in Term of Academic Performance (top 1% in HUST), 2018
-
 Miscellaneous
 ======
 English: TOEFL 101 (R:27, L:27, S:23, W:24)  
