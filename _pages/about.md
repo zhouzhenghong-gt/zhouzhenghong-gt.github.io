@@ -16,7 +16,6 @@ I am interested in multi-modal models, 3D vision and specific applications such 
 Email: zhouzhenghong1999@gmail.com
 
 <br>
-
 > _Art is an explosion!_
 > 
 > --- _Deidara_
