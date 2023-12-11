@@ -87,7 +87,8 @@ author:
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=b7owCGgAAAAJ&hl=zh-CN"
-  email            :
+  email            : "mailto:zhouzhenghong1999@gmail.com"
+  resume           : "./assets/resume.pdf"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
