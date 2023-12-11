@@ -13,12 +13,7 @@ I am Zhenghong Zhou, a final-year M.S. student in @[hustvl](https://github.com/h
 
 I am interested in multi-modal models, 3D vision and specific applications such as medicine.
 
-Email: zhouzhenghong1999@gmail.com,  [github](https://github.com/zhouzhenghong-gt), [google scholar](https://scholar.google.com/citations?user=b7owCGgAAAAJ&hl=zh-CN)  
-<br>
-
-> _Art is an explosion!_
-> 
-> --- _Deidara_
+Email: [zhouzhenghong1999@gmail.com](mailto:zhouzhenghong1999@gmail.com),  [github](https://github.com/zhouzhenghong-gt), [google scholar](https://scholar.google.com/citations?user=b7owCGgAAAAJ&hl=zh-CN)  
 
 Publications and Preprints
 ======
@@ -58,3 +53,8 @@ Miscellaneous
 ======
 English: TOEFL 101 (R:27, L:27, S:23, W:24)  
 Love badmintion(7 years), swim, reading, anime
+<br>
+
+> _Art is an explosion!_
+> 
+> --- _Deidara_
