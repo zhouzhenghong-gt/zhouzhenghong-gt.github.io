@@ -17,14 +17,17 @@ I am interested in 3D reconstruction, generation and understanding.
 
 Publications and Preprints
 ======
-* indicates equal contribution.
+\* indicates equal contribution.
 
 * TinyCLIP: CLIP Distillation via Affinity Mimicking and Weight Inheritance
-  Kan Wu, Houwen Peng, Zhenghong Zhou, Bin Xiao, Mengchen Liu, Lu Yuan, Hong Xuan, Michael Valenzuela, Xi (Stephen) Chen, Xinggang Wang, Hongyang Chao, Han Hu
+  
+  Kan Wu\*, Houwen Peng\*, **Zhenghong Zhou**\*, Bin Xiao, Mengchen Liu, Lu Yuan, Hong Xuan, Michael Valenzuela, Xi (Stephen) Chen, Xinggang Wang, Hongyang Chao, Han Hu
 * TiAVox: Time-aware Attenuation Voxels for Sparse-view 4D DSA Reconstruction
-  Zhenghong Zhou, Huangxuan Zhao, Jiemin Fang, Dongqiao Xiang, Lei Chen, Lingxia Wu, Feihong Wu, Wenyu Liu, Chuansheng Zheng, Xinggang Wang
+  
+  **Zhenghong Zhou**\*, Huangxuan Zhao\*, Jiemin Fang, Dongqiao Xiang, Lei Chen, Lingxia Wu, Feihong Wu, Wenyu Liu, Chuansheng Zheng, Xinggang Wang
 * Self-supervised Learning Enables Excellent 3d Digital Subtraction Angiography Reconstruction from Ultra-sparse 2d Projection
-  Huangxuan Zhao∗, Zhenghong Zhou∗, Feihong Wu∗, Dongqiao Xiang∗, Hui Zhao, Wei Zhang, Lin Li, Zhong Li, Jia Huang, Hongyao Hu, Chengbo Liu, Tao Wang, Wenyu Liu, Jinqiang Ma, Fan Yang, Xinggang Wang, Chuansheng Zheng
+  
+  Huangxuan Zhao\*, **Zhenghong Zhou**\*, Feihong Wu\*, Dongqiao Xiang\*, Hui Zhao, Wei Zhang, Lin Li, Zhong Li, Jia Huang, Hongyao Hu, Chengbo Liu, Tao Wang, Wenyu Liu, Jinqiang Ma, Fan Yang, Xinggang Wang, Chuansheng Zheng
 
 
 
