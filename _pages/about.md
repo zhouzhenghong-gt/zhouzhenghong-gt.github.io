@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 ### Hi 👋
-I am Zhenghong Zhou, a final-year M.S. student in @[hustvl](https://github.com/hustvl), supervised by [Xinggang Wang](https://xwcv.github.io/) and [Wenyu Liu](https://eic.hust.edu.cn/professor/liuwenyu/). I also completed my B. E. degree at Huazhong University of Science and Technology (HUST).
+I am Zhenghong Zhou, a final-year M.S. student in @[hustvl](https://github.com/hustvl), supervised by [Xinggang Wang](https://xwcv.github.io/) and [Wenyu Liu](https://eic.hust.edu.cn/professor/liuwenyu/). I also completed my B. E. degree at Huazhong University of Science and Technology (HUST) in 2021.
 
 I am interested in multi-modal models, 3D vision and specific applications such as medicine.
 
