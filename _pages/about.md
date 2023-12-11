@@ -9,9 +9,9 @@ redirect_from:
 ---
 
 ### Hi 👋
-I am Zhenghong Zhou, a final-year M.S. student in @[hustvl](https://github.com/hustvl), supervised by [Xinggang Wang](https://xwcv.github.io/) and [Wenyu Liu](https://eic.hust.edu.cn/professor/liuwenyu/). 
+I am Zhenghong Zhou, a final-year M.S. student in @[hustvl](https://github.com/hustvl), supervised by [Xinggang Wang](https://xwcv.github.io/) and [Wenyu Liu](https://eic.hust.edu.cn/professor/liuwenyu/). I also completed my B. E. degree at Huazhong University of Science and Technology (HUST).
 
-I am interested in 3D reconstruction, generation and understanding.
+I am interested in multi-modal models, 3D vision and specific applications such as medicine.
 
 [Email](zhouzhenghong1999@gmail.com), [Google scholar](https://scholar.google.com/citations?user=b7owCGgAAAAJ&hl=zh-CN), [Github](https://github.com/zhouzhenghong-gt)
 
@@ -46,8 +46,8 @@ Publications and Preprints
 
 Internship
 ======
-* [Microsoft Research Asia](https://www.msra.cn/), Beijing, China. Sep,2022-Jun,2023
-  Research intern, mentored by Dr. [Houwen Peng](https://houwenpeng.com/), working on visual-language models
+* [Microsoft Research Asia](https://www.msra.cn/), Beijing, China. Sep,2022-Jun,2023  
+  Research intern, mentored by Dr. [Houwen Peng](https://houwenpeng.com/), working on visual-language models  
 
 Misc
 ======
