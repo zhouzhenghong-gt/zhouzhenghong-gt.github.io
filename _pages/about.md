@@ -30,7 +30,7 @@ Publications and Preprints
   **Zhenghong Zhou**\*, Huangxuan Zhao\*, Jiemin Fang, Dongqiao Xiang, Lei Chen, Lingxia Wu, Feihong Wu, Wenyu Liu, Chuansheng Zheng, Xinggang Wang  
   Arxiv, 2023  
   <p align="center">
-    <img src="../images/Tiavox.png" width="500">
+    <img src="../images/Tiavox.png" width="530">
   </p>  
   [paper]([https://openaccess.thecvf.com/content/ICCV2023/html/Wu_TinyCLIP_CLIP_Distillation_via_Affinity_Mimicking_and_Weight_Inheritance_ICCV_2023_paper.html](https://arxiv.org/abs/2309.02318))  
 * Self-supervised Learning Enables Excellent 3d Digital Subtraction Angiography Reconstruction from Ultra-sparse 2d Projection  
