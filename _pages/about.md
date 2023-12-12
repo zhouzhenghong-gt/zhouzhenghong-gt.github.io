@@ -29,11 +29,11 @@ Publications and Preprints
   </p>  
 * **TiAVox: Time-aware Attenuation Voxels for Sparse-view 4D DSA Reconstruction**  
   **Zhenghong Zhou**\*, Huangxuan Zhao\*, Jiemin Fang, Dongqiao Xiang, Lei Chen, Lingxia Wu, Feihong Wu, Wenyu Liu, Chuansheng Zheng, Xinggang Wang  
-  Arxiv, 2023  
+  Arxiv, 2023
+  [paper]([https://openaccess.thecvf.com/content/ICCV2023/html/Wu_TinyCLIP_CLIP_Distillation_via_Affinity_Mimicking_and_Weight_Inheritance_ICCV_2023_paper.html](https://arxiv.org/abs/2309.02318))  
   <p align="center">
     <img src="../images/Tiavox.png" width="530">
-  </p>  
-  [paper]([https://openaccess.thecvf.com/content/ICCV2023/html/Wu_TinyCLIP_CLIP_Distillation_via_Affinity_Mimicking_and_Weight_Inheritance_ICCV_2023_paper.html](https://arxiv.org/abs/2309.02318))  
+  </p>    
 * **Self-supervised Learning Enables Excellent 3d Digital Subtraction Angiography Reconstruction from Ultra-sparse 2d Projection**  
   Huangxuan Zhao\*, **Zhenghong Zhou**\*, Feihong Wu\*, Dongqiao Xiang\*, Hui Zhao, Wei Zhang, Lin Li, Zhong Li, Jia Huang, Hongyao Hu, Chengbo Liu, Tao Wang, Wenyu Liu, Jinqiang Ma, Fan Yang, Xinggang Wang, Chuansheng Zheng  
   Cell Reports Medicine, 2022  
