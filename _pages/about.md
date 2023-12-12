@@ -29,7 +29,7 @@ Publications and Preprints
   </p>  
 * **TiAVox: Time-aware Attenuation Voxels for Sparse-view 4D DSA Reconstruction**  
   **Zhenghong Zhou**\*, Huangxuan Zhao\*, Jiemin Fang, Dongqiao Xiang, Lei Chen, Lingxia Wu, Feihong Wu, Wenyu Liu, Chuansheng Zheng, Xinggang Wang  
-  Arxiv, 2023
+  Arxiv, 2023  
   [paper](https://arxiv.org/abs/2309.02318)  
   <p align="center">
     <img src="../images/Tiavox.png" width="530">
