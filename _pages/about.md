@@ -8,9 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-👋 Hi, I am Zhenghong Zhou(周政宏), a final-year M.S. student in @[hustvl](https://github.com/hustvl), supervised by [Xinggang Wang](https://xwcv.github.io/) and [Wenyu Liu](https://eic.hust.edu.cn/professor/liuwenyu/). I also completed my B. E. degree at Huazhong University of Science and Technology (HUST) in 2021.
+👋 Hi, I am Zhenghong Zhou(周政宏), a final-year M.S. student in @[HUST vision lab](https://github.com/hustvl), supervised by [Xinggang Wang](https://xwcv.github.io/) and [Wenyu Liu](https://eic.hust.edu.cn/professor/liuwenyu/). I also completed my B. E. degree at Huazhong University of Science and Technology (HUST) in 2021.
 
-I am interested in multi-modal models, 3D vision and specific applications such as medicine.
+I am interested in 3D vision, multi-modal models and specific applications such as medicine.
+* 3D vision: Generate, reconstruct, and understand the real 3D world with minimal required information.
+* Multi-modal models: Leveraging text, images, and other modalities to enhance the intelligence of the model.
+* Specific applications: 3D medical reconstruction, robotics, AR/VR.
 
 Email: [zhouzhenghong1999@gmail.com](mailto:zhouzhenghong1999@gmail.com),  [github](https://github.com/zhouzhenghong-gt), [google scholar](https://scholar.google.com/citations?user=b7owCGgAAAAJ&hl=zh-CN), [resume](../assets/zhenghongzhou_resume.pdf)  
 
