@@ -56,7 +56,7 @@ Internship
 Miscellaneous
 ======
 English: TOEFL 101 (R:27, L:27, S:23, W:24)  
-Love badmintion(7 years), swim, reading, anime
+Love badmintion(7 years, [video](https://www.bilibili.com/video/BV1ym4y1V77Z)), swim, reading, anime
 <br>
 
 > _Art is an explosion!_
