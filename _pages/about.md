@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-👋 Hi, I am Zhenghong Zhou(周政宏), a incoming Ph.D. student in the Department of Computer Science, University of Rochester, supervised by Prof. [Jiebo Luo](https://www.cs.rochester.edu/u/jluo/). I completed my M.S. and B.E. degree at Huazhong University of Science and Technology (HUST), supervised by Prof. [Xinggang Wang](https://xwcv.github.io/) and Prof. [Wenyu Liu](https://eic.hust.edu.cn/professor/liuwenyu/).
+👋 Hi, I am Zhenghong Zhou(周政宏), an incoming Ph.D. student in the Department of Computer Science, University of Rochester, supervised by Prof. [Jiebo Luo](https://www.cs.rochester.edu/u/jluo/). I completed my M.S. and B.E. degree at Huazhong University of Science and Technology (HUST), supervised by Prof. [Xinggang Wang](https://xwcv.github.io/) and Prof. [Wenyu Liu](https://eic.hust.edu.cn/professor/liuwenyu/).
 
 I am interested in 3D vision, multi-modal models and specific applications such as medicine.
 * 3D vision: Generate, reconstruct, and understand the real 3D world with minimal required information.
