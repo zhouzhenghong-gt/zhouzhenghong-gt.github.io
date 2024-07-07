@@ -8,16 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-👋 Hi, I am Zhenghong Zhou(周政宏), a final-year M.S. student in @[HUST vision lab](https://github.com/hustvl), supervised by [Xinggang Wang](https://xwcv.github.io/) and [Wenyu Liu](https://eic.hust.edu.cn/professor/liuwenyu/). I also completed my B. E. degree at Huazhong University of Science and Technology (HUST) in 2021.
+👋 Hi, I am Zhenghong Zhou(周政宏), a incoming Ph.D. student in the Department of Computer Science, University of Rochester, supervised by Prof. [Jiebo Luo](https://www.cs.rochester.edu/u/jluo/). I completed my M.S. and B.E. degree at Huazhong University of Science and Technology (HUST), supervised by Prof. [Xinggang Wang](https://xwcv.github.io/) and Prof. [Wenyu Liu](https://eic.hust.edu.cn/professor/liuwenyu/).
 
 I am interested in 3D vision, multi-modal models and specific applications such as medicine.
 * 3D vision: Generate, reconstruct, and understand the real 3D world with minimal required information.
 * Multi-modal models: Leveraging text, images, and other modalities to enhance the intelligence of the model.
 * Specific applications: 3D medical reconstruction, robotics, AR/VR.
-
-Email: [zhouzhenghong1999@gmail.com](mailto:zhouzhenghong1999@gmail.com),  [github](https://github.com/zhouzhenghong-gt), [google scholar](https://scholar.google.com/citations?user=b7owCGgAAAAJ&hl=zh-CN), [resume](../assets/zhenghongzhou_resume.pdf)  
-
-I am looking for PhD to start in 2024 Fall. Please contact me if you have any leads!
 
 Publications and Preprints
 ======
@@ -55,8 +51,7 @@ Internship
 
 Miscellaneous
 ======
-English: TOEFL 101 (R:27, L:27, S:23, W:24)  
-Love badmintion(7 years, [video](https://www.bilibili.com/video/BV1ym4y1V77Z)), swim, reading, anime
+Love badmintion, swim, reading, anime
 <br>
 
 > _Art is an explosion!_
