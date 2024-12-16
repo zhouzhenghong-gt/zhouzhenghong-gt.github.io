@@ -20,11 +20,11 @@ Publications and Preprints
 \* indicates equal contribution.
 
 * **Latent-Reframe: Enabling Camera Control for Video Diffusion Model without Training**  
-  **Zhenghong Zhou**\*, Jie An\*, Jiebo Luo\*  
+  **Zhenghong Zhou**\*, Jie An\*, Jiebo Luo  
   **Arxiv, 2024**   
-  [paper](https://arxiv.org/abs/2412.06029), [proj page](https://latent-reframe.github.io/)  
+  [paper](https://arxiv.org/abs/2412.06029), [project page](https://latent-reframe.github.io/)  
   <p align="center">
-    <img src="../images/method.png" width="600">
+    <img src="../images/method.png" width="500">
   </p>  
 
 * **TinyCLIP: CLIP Distillation via Affinity Mimicking and Weight Inheritance**  
