@@ -24,7 +24,7 @@ Publications and Preprints
   **Arxiv, 2024**   
   [paper](https://arxiv.org/abs/2412.06029), [proj page](https://latent-reframe.github.io/)  
   <p align="center">
-    <img src="../images/LatentReframe.png" width="600">
+    <img src="../images/method.png" width="600">
   </p>  
 
 * **TinyCLIP: CLIP Distillation via Affinity Mimicking and Weight Inheritance**  
