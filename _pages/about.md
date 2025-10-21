@@ -52,7 +52,7 @@ Publications and Preprints
 Internship
 ======
 * [Adobe Research](https://research.adobe.com/), Seattle, US. 5,2025-Now  
-  Research intern, mentored by Dr. [Yuqian Zhou](https://yzhouas.github.io/), working on controllbale video diffusion models
+  Research intern, mentored by Dr. [Yuqian Zhou](https://yzhouas.github.io/), working on controllable video diffusion models
 
 * [Microsoft Research Asia](https://www.msra.cn/), Beijing, China. Dec,2022-Jun,2023  
   Research intern, mentored by Dr. [Houwen Peng](https://houwenpeng.com/), working on visual-language models
