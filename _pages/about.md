@@ -10,11 +10,19 @@ redirect_from:
 
 👋 Hi, I am Zhenghong Zhou(周政宏), a second-year Ph.D. student in the Department of Computer Science, University of Rochester, supervised by Prof. [Jiebo Luo](https://www.cs.rochester.edu/u/jluo/). I completed my M.S. and B.E. degree at Huazhong University of Science and Technology (HUST), supervised by Prof. [Xinggang Wang](https://xwcv.github.io/) and Prof. [Wenyu Liu](https://eic.hust.edu.cn/professor/liuwenyu/).
 
-I am interested in video diffusion models, 3D/4D generation and reconstruction. 
+I am interested in video diffusion models, world models, 3D/4D generation and reconstruction. 
 
 Publications and Preprints
 ======
 \* indicates equal contribution.
+
+* **Tri-Prompting: Video Diffusion with Unified Control over Scene, Subject, and Motion**  
+  **Zhenghong Zhou**, Xiaohang Zhan, Zhiqin Chen, Soo Ye Kim, Nanxuan Zhao, Haitian Zheng, Qing Liu, He Zhang, Zhe Lin, Yuqian Zhou, Jiebo Luo  
+  **Arxiv, 2026**   
+  [paper](https://arxiv.org/abs/2603.15614), [project page](https://zhouzhenghong-gt.github.io/Tri-Prompting-Page/)  
+  <p align="center">
+    <img src="../images/Teddy_keyboard.gif" width="500">
+  </p>  
 
 * **Latent-Reframe: Enabling Camera Control for Video Diffusion Model without Training**  
   **Zhenghong Zhou**\*, Jie An\*, Jiebo Luo  
