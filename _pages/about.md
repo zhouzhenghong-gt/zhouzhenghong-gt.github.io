@@ -12,6 +12,8 @@ redirect_from:
 
 I am interested in video diffusion models, world models, 3D/4D generation and reconstruction. 
 
+I am open to collaborations. Please feel free to email me at zhouzhenghong1999@gmail.com.
+
 Publications and Preprints
 ======
 \* indicates equal contribution.
