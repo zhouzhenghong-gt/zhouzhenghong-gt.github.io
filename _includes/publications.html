@@ -2,18 +2,15 @@
 <div class="publications">
   <article class="publication-row" aria-labelledby="publication-1">
     <figure class="publication-media video-preview" data-result-label="ALIVE">
-      <button type="button" class="video-preview__toggle" aria-label="Show ALIVE's edited video" aria-pressed="false" aria-describedby="alive-preview-instruction">
-        <video class="video-preview__video video-preview__source" muted loop playsinline preload="auto" poster="{{ '/assets/media/alive-headphones-source.jpg' | relative_url }}" aria-hidden="true">
-          <source src="{{ '/assets/media/alive-headphones-source.mp4' | relative_url }}" type="video/mp4">
+      <button type="button" class="video-preview__toggle" aria-label="Show ALIVE's edited video" aria-pressed="false">
+        <video class="video-preview__video video-preview__source" muted loop playsinline preload="auto" poster="{{ '/assets/media/alive-doraemon-source.jpg' | relative_url }}" aria-hidden="true">
+          <source src="{{ '/assets/media/alive-doraemon-source.mp4' | relative_url }}" type="video/mp4">
         </video>
-        <video class="video-preview__video video-preview__result" muted loop playsinline preload="auto" poster="{{ '/assets/media/alive-headphones-result.jpg' | relative_url }}" aria-hidden="true">
-          <source src="{{ '/assets/media/alive-headphones-result.mp4' | relative_url }}" type="video/mp4">
+        <video class="video-preview__video video-preview__result" muted loop playsinline preload="auto" poster="{{ '/assets/media/alive-doraemon-result.jpg' | relative_url }}" aria-hidden="true">
+          <source src="{{ '/assets/media/alive-doraemon-result.mp4' | relative_url }}" type="video/mp4">
         </video>
         <span class="video-preview__badge" aria-hidden="true">Source video</span>
       </button>
-      <figcaption>
-        <span class="video-preview__instruction" id="alive-preview-instruction">Add black over-ear headphones.</span>
-      </figcaption>
     </figure>
     <div class="publication-info">
       <h3 class="publication-title" id="publication-1"><a href="https://real-time-video-research.github.io/alive/">ALIVE: Interaction-Aligned Object Insertion for First-Frame-Guided Video Editing</a></h3>
@@ -24,15 +21,12 @@
   </article>
   <article class="publication-row" aria-labelledby="publication-2">
     <figure class="publication-media video-preview video-preview--wide" data-playback="sequence" data-source-duration="2" data-result-label="EditStream">
-      <button type="button" class="video-preview__toggle" aria-label="Pause EditStream preview" aria-describedby="editstream-preview-instruction">
+      <button type="button" class="video-preview__toggle" aria-label="Pause EditStream preview">
         <video class="video-preview__video" muted loop playsinline preload="auto" poster="{{ '/assets/media/editstream-preview-sequence.jpg' | relative_url }}" aria-hidden="true">
           <source src="{{ '/assets/media/editstream-preview-sequence.mp4' | relative_url }}?v=aligned-20261006" type="video/mp4">
         </video>
         <span class="video-preview__badge" aria-hidden="true">Source video</span>
       </button>
-      <figcaption>
-        <span class="video-preview__instruction" id="editstream-preview-instruction">Interactive video editing.</span>
-      </figcaption>
     </figure>
     <div class="publication-info">
       <h3 class="publication-title" id="publication-2"><a href="https://real-time-video-research.github.io/editstream/">EditStream: A Unified Autoregressive Framework for Interactive Video Generation and Editing</a></h3>
