@@ -1,8 +1,77 @@
-.page__content .publication-media {
+.page__content .publication-note {
+  margin: -0.15em 0 18px;
+  color: #6b6b6b;
+  font-size: 13px;
+}
+
+.publications {
+  display: grid;
+  gap: 28px;
+  margin-bottom: 30px;
+}
+
+.publication-row {
+  display: grid;
+  grid-template-columns: 200px minmax(0, 1fr);
+  align-items: center;
+  column-gap: 26px;
+}
+
+.page__content .publication-row .publication-media {
   display: block;
   width: 100%;
-  max-width: 500px;
-  margin: 0.8em auto 1.4em;
+  min-width: 0;
+  margin: 0;
+}
+
+.publication-media > a {
+  display: block;
+}
+
+.publication-media img {
+  display: block;
+  width: 100%;
+  height: auto;
+  max-height: 150px;
+  object-fit: contain;
+}
+
+.publication-info {
+  min-width: 0;
+  color: #333;
+  font-size: 14px;
+  line-height: 1.5;
+}
+
+.page__content .publication-title {
+  margin: 0 0 4px;
+  font-size: 15px;
+  font-weight: 600;
+  line-height: 1.4;
+}
+
+.page__content .publication-info p {
+  margin: 0;
+  font-size: inherit;
+}
+
+.page__content .publication-info .publication-venue {
+  margin-top: 3px;
+}
+
+.page__content .publication-info a {
+  color: #1772d0;
+  text-decoration: none;
+}
+
+.page__content .publication-info a:hover {
+  color: #b75d0e;
+  text-decoration: underline;
+}
+
+.publication-links span {
+  margin: 0 3px;
+  color: #999;
 }
 
 .publication-teaser {
@@ -10,7 +79,7 @@
   width: 100%;
   aspect-ratio: 20 / 11;
   background: #111;
-  border-radius: 5px;
+  border-radius: 3px;
 }
 
 .alive-preview__toggle {
@@ -21,7 +90,7 @@
   padding: 0;
   overflow: hidden;
   border: 0;
-  border-radius: 5px;
+  border-radius: 3px;
   background: #eee;
   cursor: pointer;
   touch-action: manipulation;
@@ -53,13 +122,13 @@
 
 .alive-preview__badge {
   position: absolute;
-  top: 10px;
-  left: 10px;
-  padding: 4px 9px;
-  border-radius: 4px;
+  top: 5px;
+  left: 5px;
+  padding: 2px 5px;
+  border-radius: 2px;
   background: rgba(255, 255, 255, 0.9);
   color: #333;
-  font: 600 12px/1.4 -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+  font: 600 10px/1.4 -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
   pointer-events: none;
 }
 
@@ -68,11 +137,11 @@
 }
 
 .page__content .alive-preview figcaption {
-  margin: 7px 0 0;
+  margin: 5px 0 0;
   text-align: center;
   font-style: normal;
-  font-size: 0.8em;
-  line-height: 1.6;
+  font-size: 11px;
+  line-height: 1.4;
 }
 
 .alive-preview__instruction {
@@ -83,7 +152,27 @@
 .alive-preview__hint {
   display: block;
   color: #73777c;
-  font-size: 0.85em;
+  font-size: 10px;
+}
+
+@media (max-width: 1100px) and (min-width: 769px) {
+  .publication-row {
+    grid-template-columns: 170px minmax(0, 1fr);
+    column-gap: 22px;
+  }
+}
+
+@media (max-width: 600px) {
+  .publication-row {
+    grid-template-columns: 112px minmax(0, 1fr);
+    column-gap: 16px;
+  }
+
+  .publication-info { font-size: 12px; }
+  .page__content .publication-title { font-size: 13px; }
+  .publication-media img { max-height: 112px; }
+  .page__content .alive-preview figcaption { font-size: 10px; }
+  .alive-preview__hint { font-size: 9px; }
 }
 
 @media (prefers-reduced-motion: reduce) {

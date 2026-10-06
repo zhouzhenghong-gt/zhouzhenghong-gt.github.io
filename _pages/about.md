@@ -17,78 +17,7 @@ I am open to collaborations. Please feel free to email me at zhouzhenghong1999@g
 
 Publications and Preprints
 ======
-\* indicates equal contribution.
-
-* **ALIVE: Interaction-Aligned Object Insertion for First-Frame-Guided Video Editing**  
-  **Zhenghong Zhou**, Zhe Lin, Jiebo Luo, Yuqian Zhou  
-  **arXiv, 2026**  
-  [project page](https://real-time-video-research.github.io/alive/)  
-  <figure class="publication-media alive-preview">
-    <button type="button" class="alive-preview__toggle" aria-label="Show ALIVE's edited video" aria-pressed="false" aria-describedby="alive-preview-hint">
-      <video class="alive-preview__video alive-preview__source" muted loop playsinline preload="auto" poster="{{ '/assets/media/alive-headphones-source.jpg' | relative_url }}" aria-hidden="true">
-        <source src="{{ '/assets/media/alive-headphones-source.mp4' | relative_url }}" type="video/mp4">
-      </video>
-      <video class="alive-preview__video alive-preview__result" muted loop playsinline preload="auto" poster="{{ '/assets/media/alive-headphones-result.jpg' | relative_url }}" aria-hidden="true">
-        <source src="{{ '/assets/media/alive-headphones-result.mp4' | relative_url }}" type="video/mp4">
-      </video>
-      <span class="alive-preview__badge" aria-hidden="true">Source video</span>
-    </button>
-    <figcaption>
-      <span class="alive-preview__instruction">Add black over-ear headphones.</span>
-      <span class="alive-preview__hint" id="alive-preview-hint">Hover or tap to see ALIVE.</span>
-    </figcaption>
-  </figure>
-
-* **EditStream: A Unified Autoregressive Framework for Interactive Video Generation and Editing**  
-  Yuqian Zhou\*, **Zhenghong Zhou**\*, Zongze Wu, Cameron Smith, Richard Zhang, Jiebo Luo, Eli Shechtman, Zhe Lin  
-  **arXiv, 2026**  
-  [paper](https://arxiv.org/abs/2608.21424), [project page](https://real-time-video-research.github.io/editstream/)  
-  <figure class="publication-media">
-    <video class="publication-teaser" controls muted playsinline preload="none" poster="{{ '/assets/media/editstream-teaser.jpg' | relative_url }}" aria-label="EditStream teaser">
-      <source src="{{ '/assets/media/editstream-teaser.mp4' | relative_url }}" type="video/mp4">
-      <a href="{{ '/assets/media/editstream-teaser.mp4' | relative_url }}">Watch the EditStream teaser</a>
-    </video>
-  </figure>
-
-* **Tri-Prompting: Video Diffusion with Unified Control over Scene, Subject, and Motion**  
-  **Zhenghong Zhou**, Xiaohang Zhan, Zhiqin Chen, Soo Ye Kim, Nanxuan Zhao, Haitian Zheng, Qing Liu, He Zhang, Zhe Lin, Yuqian Zhou, Jiebo Luo  
-  **NeurIPS, 2026**   
-  [paper](https://arxiv.org/abs/2603.15614), [project page](https://zhouzhenghong-gt.github.io/Tri-Prompting-Page/)  
-  <p align="center">
-    <img src="../images/Teddy_keyboard.gif" width="500">
-  </p>  
-
-* **Latent-Reframe: Enabling Camera Control for Video Diffusion Model without Training**  
-  **Zhenghong Zhou**\*, Jie An\*, Jiebo Luo  
-  **ICCV, 2025**   
-  [paper](https://arxiv.org/abs/2412.06029), [project page](https://latent-reframe.github.io/)  
-  <p align="center">
-    <img src="../images/method.png" width="500">
-  </p>  
-
-* **TinyCLIP: CLIP Distillation via Affinity Mimicking and Weight Inheritance**  
-  Kan Wu\*, Houwen Peng\*, **Zhenghong Zhou**\*, Bin Xiao, Mengchen Liu, Lu Yuan, Hong Xuan, Michael Valenzuela, Xi (Stephen) Chen, Xinggang Wang, Hongyang Chao, Han Hu  
-  **ICCV, 2023**   
-  [paper](https://openaccess.thecvf.com/content/ICCV2023/html/Wu_TinyCLIP_CLIP_Distillation_via_Affinity_Mimicking_and_Weight_Inheritance_ICCV_2023_paper.html), [code](https://github.com/microsoft/Cream/tree/main/TinyCLIP)  
-  <p align="center">
-    <img src="../images/TinyCLIP.png" width="600">
-  </p>  
-* **TiAVox: Time-aware Attenuation Voxels for Sparse-view 4D DSA Reconstruction**  
-  **Zhenghong Zhou**\*, Huangxuan Zhao\*, Jiemin Fang, Dongqiao Xiang, Lei Chen, Lingxia Wu, Feihong Wu, Wenyu Liu, Chuansheng Zheng, Xinggang Wang  
-  **Arxiv, 2023**   
-  [paper](https://arxiv.org/abs/2309.02318)  
-  <p align="center">
-    <img src="../images/Tiavox.png" width="530">
-  </p>    
-* **Self-supervised Learning Enables Excellent 3d Digital Subtraction Angiography Reconstruction from Ultra-sparse 2d Projection**  
-  Huangxuan Zhao\*, **Zhenghong Zhou**\*, Feihong Wu\*, Dongqiao Xiang\*, Hui Zhao, Wei Zhang, Lin Li, Zhong Li, Jia Huang, Hongyao Hu, Chengbo Liu, Tao Wang, Wenyu Liu, Jinqiang Ma, Fan Yang, Xinggang Wang, Chuansheng Zheng  
-  **Cell Reports Medicine, 2022**  
-  [paper](https://www.sciencedirect.com/science/article/pii/S2666379122003305), [code](https://github.com/zhouzhenghong-gt/self-supervised-3D-DSA-reconstructio-network)  
-  <p align="center">
-    <img src="../images/ssdr.png" width="450">
-  </p>  
-
-
+{% include publications.html %}
 
 
 Internship
