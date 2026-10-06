@@ -1,8 +1,3 @@
-.page__content .homepage-bio,
-.page__content #internship + ul {
-  font-family: Georgia, Times, serif;
-}
-
 .page__content .publication-note {
   margin: -0.15em 0 18px;
   color: #6b6b6b;
