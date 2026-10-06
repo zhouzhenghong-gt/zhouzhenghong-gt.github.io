@@ -1,4 +1,5 @@
-.page__content .homepage-bio {
+.page__content .homepage-bio,
+.page__content #internship + ul {
   font-family: Georgia, Times, serif;
 }
 
