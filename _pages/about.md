@@ -22,11 +22,14 @@ Publications and Preprints
 
 Internship
 ======
-* [Adobe Research](https://research.adobe.com/), Seattle, US. 5,2025-Now  
-  Research intern, mentored by Dr. [Yuqian Zhou](https://yzhouas.github.io/), working on controllable video diffusion models
+* **[Adobe Research](https://research.adobe.com/)**, Seattle, US · May 2026 – Present  
+  Research Intern, mentored by Dr. [Zhiqin Chen](https://czq142857.github.io/), working on 3D/4D generation and reconstruction.
 
-* [Microsoft Research Asia](https://www.msra.cn/), Beijing, China. Dec,2022-Jun,2023  
-  Research intern, mentored by Dr. [Houwen Peng](https://houwenpeng.com/), working on visual-language models
+* **[Adobe Research](https://research.adobe.com/)**, Seattle, US · May 2025 – Mar. 2026  
+  Research Intern, mentored by Dr. [Yuqian Zhou](https://yzhouas.github.io/), working on controllable video diffusion models.
+
+* **[Microsoft Research Asia](https://www.msra.cn/)**, Beijing, China · Dec. 2022 – Jun. 2023  
+  Research Intern, mentored by Dr. [Houwen Peng](https://houwenpeng.com/), working on visual-language models.
 
 Miscellaneous
 ======
