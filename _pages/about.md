@@ -22,7 +22,7 @@ Publications and Preprints
 * **ALIVE: Interaction-Aligned Object Insertion for First-Frame-Guided Video Editing**  
   **Zhenghong Zhou**, Zhe Lin, Jiebo Luo, Yuqian Zhou  
   **arXiv, 2026**  
-  [project page](https://phidias.s3.us-west-2.amazonaws.com/zhenghongz/openbenchmark/alive_project_20260929/index.html?rev=author-links-20261006)  
+  [project page](https://real-time-video-research.github.io/alive/)  
   {% include alive-preview.html %}
 
 * **EditStream: A Unified Autoregressive Framework for Interactive Video Generation and Editing**  
