@@ -3,6 +3,7 @@ permalink: /
 title: "About Me"
 excerpt: "About me"
 author_profile: true
+publication_media: true
 redirect_from: 
   - /about/
   - /about.html
@@ -18,9 +19,26 @@ Publications and Preprints
 ======
 \* indicates equal contribution.
 
+* **ALIVE: Interaction-Aligned Object Insertion for First-Frame-Guided Video Editing**  
+  **Zhenghong Zhou**, Zhe Lin, Jiebo Luo, Yuqian Zhou  
+  **arXiv, 2026**  
+  [project page](https://phidias.s3.us-west-2.amazonaws.com/zhenghongz/openbenchmark/alive_project_20260929/index.html?rev=author-links-20261006)  
+  {% include alive-preview.html %}
+
+* **EditStream: A Unified Autoregressive Framework for Interactive Video Generation and Editing**  
+  Yuqian Zhou\*, **Zhenghong Zhou**\*, Zongze Wu, Cameron Smith, Richard Zhang, Jiebo Luo, Eli Shechtman, Zhe Lin  
+  **arXiv, 2026**  
+  [paper](https://arxiv.org/abs/2608.21424), [project page](https://real-time-video-research.github.io/editstream/)  
+  <figure class="publication-media">
+    <video class="publication-teaser" controls muted playsinline preload="none" poster="{{ '/assets/media/editstream-teaser.jpg' | relative_url }}" aria-label="EditStream teaser">
+      <source src="{{ '/assets/media/editstream-teaser.mp4' | relative_url }}" type="video/mp4">
+      <a href="{{ '/assets/media/editstream-teaser.mp4' | relative_url }}">Watch the EditStream teaser</a>
+    </video>
+  </figure>
+
 * **Tri-Prompting: Video Diffusion with Unified Control over Scene, Subject, and Motion**  
   **Zhenghong Zhou**, Xiaohang Zhan, Zhiqin Chen, Soo Ye Kim, Nanxuan Zhao, Haitian Zheng, Qing Liu, He Zhang, Zhe Lin, Yuqian Zhou, Jiebo Luo  
-  **Arxiv, 2026**   
+  **NeurIPS, 2026**   
   [paper](https://arxiv.org/abs/2603.15614), [project page](https://zhouzhenghong-gt.github.io/Tri-Prompting-Page/)  
   <p align="center">
     <img src="../images/Teddy_keyboard.gif" width="500">

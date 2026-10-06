@@ -1,4 +1,7 @@
 <script src="{{ base_path }}/assets/js/main.min.js"></script>
+{% if page.publication_media %}
+<script src="{{ '/assets/js/publication-media.js' | relative_url }}" defer></script>
+{% endif %}
 
 {% include analytics.html %}
 {% include /comments-providers/scripts.html %}

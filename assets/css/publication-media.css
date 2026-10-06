@@ -1,0 +1,91 @@
+.page__content .publication-media {
+  display: block;
+  width: 100%;
+  max-width: 500px;
+  margin: 0.8em auto 1.4em;
+}
+
+.publication-teaser {
+  display: block;
+  width: 100%;
+  aspect-ratio: 20 / 11;
+  background: #111;
+  border-radius: 5px;
+}
+
+.alive-preview__toggle {
+  position: relative;
+  display: block;
+  width: 100%;
+  aspect-ratio: 3 / 2;
+  padding: 0;
+  overflow: hidden;
+  border: 0;
+  border-radius: 5px;
+  background: #eee;
+  cursor: pointer;
+  touch-action: manipulation;
+  -webkit-tap-highlight-color: transparent;
+}
+
+.alive-preview__toggle:focus-visible {
+  outline: 3px solid #3a7392;
+  outline-offset: 4px;
+}
+
+.alive-preview__video {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  pointer-events: none;
+}
+
+.alive-preview__result {
+  opacity: 0;
+  transition: opacity 150ms ease;
+}
+
+.alive-preview__toggle[aria-pressed="true"] .alive-preview__result {
+  opacity: 1;
+}
+
+.alive-preview__badge {
+  position: absolute;
+  top: 10px;
+  left: 10px;
+  padding: 4px 9px;
+  border-radius: 4px;
+  background: rgba(255, 255, 255, 0.9);
+  color: #333;
+  font: 600 12px/1.4 -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+  pointer-events: none;
+}
+
+.alive-preview__toggle[aria-pressed="true"] .alive-preview__badge {
+  color: #23566c;
+}
+
+.page__content .alive-preview figcaption {
+  margin: 7px 0 0;
+  text-align: center;
+  font-style: normal;
+  font-size: 0.8em;
+  line-height: 1.6;
+}
+
+.alive-preview__instruction {
+  display: block;
+  color: #333;
+}
+
+.alive-preview__hint {
+  display: block;
+  color: #73777c;
+  font-size: 0.85em;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .alive-preview__result { transition: none; }
+}
