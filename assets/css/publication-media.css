@@ -95,7 +95,7 @@
 }
 
 .video-preview--wide .video-preview__toggle {
-  aspect-ratio: 30 / 17;
+  aspect-ratio: 29 / 17;
 }
 
 .video-preview__toggle:focus-visible {
