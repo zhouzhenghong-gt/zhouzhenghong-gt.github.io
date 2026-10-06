@@ -23,7 +23,21 @@ Publications and Preprints
   **Zhenghong Zhou**, Zhe Lin, Jiebo Luo, Yuqian Zhou  
   **arXiv, 2026**  
   [project page](https://real-time-video-research.github.io/alive/)  
-  {% include alive-preview.html %}
+  <figure class="publication-media alive-preview">
+    <button type="button" class="alive-preview__toggle" aria-label="Show ALIVE's edited video" aria-pressed="false" aria-describedby="alive-preview-hint">
+      <video class="alive-preview__video alive-preview__source" muted loop playsinline preload="auto" poster="{{ '/assets/media/alive-headphones-source.jpg' | relative_url }}" aria-hidden="true">
+        <source src="{{ '/assets/media/alive-headphones-source.mp4' | relative_url }}" type="video/mp4">
+      </video>
+      <video class="alive-preview__video alive-preview__result" muted loop playsinline preload="auto" poster="{{ '/assets/media/alive-headphones-result.jpg' | relative_url }}" aria-hidden="true">
+        <source src="{{ '/assets/media/alive-headphones-result.mp4' | relative_url }}" type="video/mp4">
+      </video>
+      <span class="alive-preview__badge" aria-hidden="true">Source video</span>
+    </button>
+    <figcaption>
+      <span class="alive-preview__instruction">Add black over-ear headphones.</span>
+      <span class="alive-preview__hint" id="alive-preview-hint">Hover or tap to see ALIVE.</span>
+    </figcaption>
+  </figure>
 
 * **EditStream: A Unified Autoregressive Framework for Interactive Video Generation and Editing**  
   Yuqian Zhou\*, **Zhenghong Zhou**\*, Zongze Wu, Cameron Smith, Richard Zhang, Jiebo Luo, Eli Shechtman, Zhe Lin  
