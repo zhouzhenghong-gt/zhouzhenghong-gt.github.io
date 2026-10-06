@@ -1,7 +1,7 @@
 (function () {
   "use strict";
 
-  document.querySelectorAll('.video-preview:not([data-playback="sequence"])').forEach(function (preview) {
+  document.querySelectorAll('.video-preview:not([data-playback])').forEach(function (preview) {
     var button = preview.querySelector(".video-preview__toggle");
     var source = preview.querySelector(".video-preview__source");
     var result = preview.querySelector(".video-preview__result");
@@ -73,18 +73,12 @@
     }
   });
 
-  document.querySelectorAll('.video-preview[data-playback="sequence"]').forEach(function (preview) {
+  document.querySelectorAll('.video-preview[data-playback="autoplay"]').forEach(function (preview) {
     var video = preview.querySelector("video");
     var button = preview.querySelector(".video-preview__toggle");
-    var badge = preview.querySelector(".video-preview__badge");
-    var sourceDuration = Number(preview.dataset.sourceDuration);
     var resultLabel = preview.dataset.resultLabel;
     var userPaused = window.matchMedia("(prefers-reduced-motion: reduce)").matches;
     var visible = false;
-
-    function updateBadge() {
-      badge.textContent = video.currentTime < sourceDuration ? "Source video" : resultLabel;
-    }
 
     function updatePlayback() {
       button.setAttribute("aria-label", (userPaused ? "Play " : "Pause ") + resultLabel + " preview");
@@ -96,13 +90,11 @@
       }
     }
 
-    // A single, frame-aligned clip continues from source frame 47 to result frame 48.
-    // Hovering leaves the automatic sequence running; clicking pauses or resumes it.
+    // Loop the edited clip from its first frame; clicking pauses or resumes it.
     button.addEventListener("click", function () {
       userPaused = !userPaused;
       updatePlayback();
     });
-    video.addEventListener("timeupdate", updateBadge);
     document.addEventListener("visibilitychange", updatePlayback);
     if ("IntersectionObserver" in window) {
       new IntersectionObserver(function (entries) {
@@ -113,7 +105,6 @@
       visible = true;
       updatePlayback();
     }
-    updateBadge();
     updatePlayback();
   });
 }());
