@@ -1,3 +1,8 @@
+.page__content .homepage-bio,
+.page__content .video-preview figcaption {
+  font-family: Georgia, Times, serif;
+}
+
 .page__content .publication-note {
   margin: -0.15em 0 18px;
   color: #6b6b6b;
@@ -145,12 +150,6 @@
   color: #333;
 }
 
-.video-preview__hint {
-  display: block;
-  color: #73777c;
-  font-size: 10px;
-}
-
 @media (max-width: 1100px) and (min-width: 769px) {
   .publication-row {
     grid-template-columns: 170px minmax(0, 1fr);
@@ -168,7 +167,6 @@
   .page__content .publication-title { font-size: 13px; }
   .publication-media img { max-height: 112px; }
   .page__content .video-preview figcaption { font-size: 10px; }
-  .video-preview__hint { font-size: 9px; }
 }
 
 @media (prefers-reduced-motion: reduce) {

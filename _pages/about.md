@@ -10,10 +10,13 @@ redirect_from:
 ---
 
 👋 Hi, I am Zhenghong Zhou(周政宏), a second-year Ph.D. student in the Department of Computer Science, University of Rochester, supervised by Prof. [Jiebo Luo](https://www.cs.rochester.edu/u/jluo/). I completed my M.S. and B.E. degree at Huazhong University of Science and Technology (HUST), supervised by Prof. [Xinggang Wang](https://xwcv.github.io/) and Prof. [Wenyu Liu](https://eic.hust.edu.cn/professor/liuwenyu/).
+{: .homepage-bio}
 
 I am interested in video diffusion models, world models, 3D/4D generation and reconstruction. 
+{: .homepage-bio}
 
 I am open to collaborations. Please feel free to email me at zhouzhenghong1999@gmail.com.
+{: .homepage-bio}
 
 Publications and Preprints
 ======
