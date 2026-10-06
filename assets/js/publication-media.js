@@ -1,11 +1,12 @@
 (function () {
   "use strict";
 
-  document.querySelectorAll(".alive-preview").forEach(function (preview) {
-    var button = preview.querySelector(".alive-preview__toggle");
-    var source = preview.querySelector(".alive-preview__source");
-    var result = preview.querySelector(".alive-preview__result");
-    var badge = preview.querySelector(".alive-preview__badge");
+  document.querySelectorAll(".video-preview").forEach(function (preview) {
+    var button = preview.querySelector(".video-preview__toggle");
+    var source = preview.querySelector(".video-preview__source");
+    var result = preview.querySelector(".video-preview__result");
+    var badge = preview.querySelector(".video-preview__badge");
+    var resultLabel = preview.dataset.resultLabel || "Edited video";
     var reducedMotion = window.matchMedia("(prefers-reduced-motion: reduce)");
     var showingResult = false;
     var visible = false;
@@ -25,8 +26,8 @@
       previous.pause();
       showingResult = next;
       button.setAttribute("aria-pressed", String(next));
-      button.setAttribute("aria-label", next ? "Show the source video" : "Show ALIVE's edited video");
-      badge.textContent = next ? "ALIVE" : "Source video";
+      button.setAttribute("aria-label", next ? "Show the source video" : "Show the " + resultLabel + " result");
+      badge.textContent = next ? resultLabel : "Source video";
 
       function resume() {
         if (active !== (showingResult ? result : source)) return;

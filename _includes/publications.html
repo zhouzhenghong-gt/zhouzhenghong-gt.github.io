@@ -1,19 +1,19 @@
 <p class="publication-note">* indicates equal contribution.</p>
 <div class="publications">
   <article class="publication-row" aria-labelledby="publication-1">
-    <figure class="publication-media alive-preview">
-      <button type="button" class="alive-preview__toggle" aria-label="Show ALIVE's edited video" aria-pressed="false" aria-describedby="alive-preview-hint">
-        <video class="alive-preview__video alive-preview__source" muted loop playsinline preload="auto" poster="{{ '/assets/media/alive-headphones-source.jpg' | relative_url }}" aria-hidden="true">
+    <figure class="publication-media video-preview" data-result-label="ALIVE">
+      <button type="button" class="video-preview__toggle" aria-label="Show ALIVE's edited video" aria-pressed="false" aria-describedby="alive-preview-hint">
+        <video class="video-preview__video video-preview__source" muted loop playsinline preload="auto" poster="{{ '/assets/media/alive-headphones-source.jpg' | relative_url }}" aria-hidden="true">
           <source src="{{ '/assets/media/alive-headphones-source.mp4' | relative_url }}" type="video/mp4">
         </video>
-        <video class="alive-preview__video alive-preview__result" muted loop playsinline preload="auto" poster="{{ '/assets/media/alive-headphones-result.jpg' | relative_url }}" aria-hidden="true">
+        <video class="video-preview__video video-preview__result" muted loop playsinline preload="auto" poster="{{ '/assets/media/alive-headphones-result.jpg' | relative_url }}" aria-hidden="true">
           <source src="{{ '/assets/media/alive-headphones-result.mp4' | relative_url }}" type="video/mp4">
         </video>
-        <span class="alive-preview__badge" aria-hidden="true">Source video</span>
+        <span class="video-preview__badge" aria-hidden="true">Source video</span>
       </button>
       <figcaption>
-        <span class="alive-preview__instruction">Add black over-ear headphones.</span>
-        <span class="alive-preview__hint" id="alive-preview-hint">Hover or tap to see ALIVE.</span>
+        <span class="video-preview__instruction">Add black over-ear headphones.</span>
+        <span class="video-preview__hint" id="alive-preview-hint">Hover or tap to see ALIVE.</span>
       </figcaption>
     </figure>
     <div class="publication-info">
@@ -24,11 +24,20 @@
     </div>
   </article>
   <article class="publication-row" aria-labelledby="publication-2">
-    <figure class="publication-media">
-      <video class="publication-teaser" controls muted playsinline preload="none" poster="{{ '/assets/media/editstream-teaser.jpg' | relative_url }}" aria-label="EditStream teaser">
-        <source src="{{ '/assets/media/editstream-teaser.mp4' | relative_url }}" type="video/mp4">
-        <a href="{{ '/assets/media/editstream-teaser.mp4' | relative_url }}">Watch the EditStream teaser</a>
-      </video>
+    <figure class="publication-media video-preview video-preview--wide" data-result-label="EditStream">
+      <button type="button" class="video-preview__toggle" aria-label="Show EditStream's edited video" aria-pressed="false" aria-describedby="editstream-preview-hint">
+        <video class="video-preview__video video-preview__source" muted loop playsinline preload="auto" poster="{{ '/assets/media/editstream-preview-source.jpg' | relative_url }}" aria-hidden="true">
+          <source src="{{ '/assets/media/editstream-preview-source.mp4' | relative_url }}" type="video/mp4">
+        </video>
+        <video class="video-preview__video video-preview__result" muted loop playsinline preload="auto" poster="{{ '/assets/media/editstream-preview-result.jpg' | relative_url }}" aria-hidden="true">
+          <source src="{{ '/assets/media/editstream-preview-result.mp4' | relative_url }}" type="video/mp4">
+        </video>
+        <span class="video-preview__badge" aria-hidden="true">Source video</span>
+      </button>
+      <figcaption>
+        <span class="video-preview__instruction">Interactive video editing.</span>
+        <span class="video-preview__hint" id="editstream-preview-hint">Hover or tap to see EditStream.</span>
+      </figcaption>
     </figure>
     <div class="publication-info">
       <h3 class="publication-title" id="publication-2"><a href="https://real-time-video-research.github.io/editstream/">EditStream: A Unified Autoregressive Framework for Interactive Video Generation and Editing</a></h3>

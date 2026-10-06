@@ -74,15 +74,7 @@
   color: #999;
 }
 
-.publication-teaser {
-  display: block;
-  width: 100%;
-  aspect-ratio: 20 / 11;
-  background: #111;
-  border-radius: 3px;
-}
-
-.alive-preview__toggle {
+.video-preview__toggle {
   position: relative;
   display: block;
   width: 100%;
@@ -97,12 +89,16 @@
   -webkit-tap-highlight-color: transparent;
 }
 
-.alive-preview__toggle:focus-visible {
+.video-preview--wide .video-preview__toggle {
+  aspect-ratio: 30 / 17;
+}
+
+.video-preview__toggle:focus-visible {
   outline: 3px solid #3a7392;
   outline-offset: 4px;
 }
 
-.alive-preview__video {
+.video-preview__video {
   position: absolute;
   inset: 0;
   width: 100%;
@@ -111,16 +107,16 @@
   pointer-events: none;
 }
 
-.alive-preview__result {
+.video-preview__result {
   opacity: 0;
   transition: opacity 150ms ease;
 }
 
-.alive-preview__toggle[aria-pressed="true"] .alive-preview__result {
+.video-preview__toggle[aria-pressed="true"] .video-preview__result {
   opacity: 1;
 }
 
-.alive-preview__badge {
+.video-preview__badge {
   position: absolute;
   top: 5px;
   left: 5px;
@@ -132,11 +128,11 @@
   pointer-events: none;
 }
 
-.alive-preview__toggle[aria-pressed="true"] .alive-preview__badge {
+.video-preview__toggle[aria-pressed="true"] .video-preview__badge {
   color: #23566c;
 }
 
-.page__content .alive-preview figcaption {
+.page__content .video-preview figcaption {
   margin: 5px 0 0;
   text-align: center;
   font-style: normal;
@@ -144,12 +140,12 @@
   line-height: 1.4;
 }
 
-.alive-preview__instruction {
+.video-preview__instruction {
   display: block;
   color: #333;
 }
 
-.alive-preview__hint {
+.video-preview__hint {
   display: block;
   color: #73777c;
   font-size: 10px;
@@ -171,10 +167,10 @@
   .publication-info { font-size: 12px; }
   .page__content .publication-title { font-size: 13px; }
   .publication-media img { max-height: 112px; }
-  .page__content .alive-preview figcaption { font-size: 10px; }
-  .alive-preview__hint { font-size: 9px; }
+  .page__content .video-preview figcaption { font-size: 10px; }
+  .video-preview__hint { font-size: 9px; }
 }
 
 @media (prefers-reduced-motion: reduce) {
-  .alive-preview__result { transition: none; }
+  .video-preview__result { transition: none; }
 }
